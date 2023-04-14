@@ -5,4 +5,4 @@ The purpose of this project is to automate the existing manual system by the hel
 ## Authors
 1. Kapil Kukreja 
 2. Nikunj Kumar
-3. Nipun Bansal
+3. Vidhit Saxena
